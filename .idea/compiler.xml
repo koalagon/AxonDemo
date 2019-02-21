@@ -13,7 +13,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="messages" target="1.5" />
+      <module name="messages" target="1.8" />
       <module name="sales" target="1.8" />
       <module name="ui" target="1.8" />
       <module name="users" target="1.8" />
